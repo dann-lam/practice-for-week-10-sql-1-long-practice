@@ -1,4 +1,4 @@
-# Long Practice: Basic SQL
+l# Long Practice: Basic SQL
 
 In this long practice, you will be executing SQL commands in SQLite3.
 
